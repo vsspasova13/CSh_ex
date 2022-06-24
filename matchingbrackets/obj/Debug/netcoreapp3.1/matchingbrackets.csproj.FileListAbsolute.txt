@@ -1,0 +1,13 @@
+C:\Users\Emili\Desktop\softuni\stack,q\matchingbrackets\bin\Debug\netcoreapp3.1\matchingbrackets.exe
+C:\Users\Emili\Desktop\softuni\stack,q\matchingbrackets\bin\Debug\netcoreapp3.1\matchingbrackets.deps.json
+C:\Users\Emili\Desktop\softuni\stack,q\matchingbrackets\bin\Debug\netcoreapp3.1\matchingbrackets.runtimeconfig.json
+C:\Users\Emili\Desktop\softuni\stack,q\matchingbrackets\bin\Debug\netcoreapp3.1\matchingbrackets.runtimeconfig.dev.json
+C:\Users\Emili\Desktop\softuni\stack,q\matchingbrackets\bin\Debug\netcoreapp3.1\matchingbrackets.dll
+C:\Users\Emili\Desktop\softuni\stack,q\matchingbrackets\bin\Debug\netcoreapp3.1\matchingbrackets.pdb
+C:\Users\Emili\Desktop\softuni\stack,q\matchingbrackets\obj\Debug\netcoreapp3.1\matchingbrackets.csprojAssemblyReference.cache
+C:\Users\Emili\Desktop\softuni\stack,q\matchingbrackets\obj\Debug\netcoreapp3.1\matchingbrackets.AssemblyInfoInputs.cache
+C:\Users\Emili\Desktop\softuni\stack,q\matchingbrackets\obj\Debug\netcoreapp3.1\matchingbrackets.AssemblyInfo.cs
+C:\Users\Emili\Desktop\softuni\stack,q\matchingbrackets\obj\Debug\netcoreapp3.1\matchingbrackets.csproj.CoreCompileInputs.cache
+C:\Users\Emili\Desktop\softuni\stack,q\matchingbrackets\obj\Debug\netcoreapp3.1\matchingbrackets.dll
+C:\Users\Emili\Desktop\softuni\stack,q\matchingbrackets\obj\Debug\netcoreapp3.1\matchingbrackets.pdb
+C:\Users\Emili\Desktop\softuni\stack,q\matchingbrackets\obj\Debug\netcoreapp3.1\matchingbrackets.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+D:\ando 11D\vilietuk\failove\bin\Debug\failove.exe.config
+D:\ando 11D\vilietuk\failove\bin\Debug\failove.exe
+D:\ando 11D\vilietuk\failove\bin\Debug\failove.pdb
+D:\ando 11D\vilietuk\failove\obj\Debug\failove.csproj.AssemblyReference.cache
+D:\ando 11D\vilietuk\failove\obj\Debug\failove.Form1.resources
+D:\ando 11D\vilietuk\failove\obj\Debug\failove.Properties.Resources.resources
+D:\ando 11D\vilietuk\failove\obj\Debug\failove.csproj.GenerateResource.cache
+D:\ando 11D\vilietuk\failove\obj\Debug\failove.csproj.CoreCompileInputs.cache
+D:\ando 11D\vilietuk\failove\obj\Debug\failove.exe
+D:\ando 11D\vilietuk\failove\obj\Debug\failove.pdb

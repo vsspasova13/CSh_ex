@@ -1,0 +1,13 @@
+C:\Users\Emili\Desktop\softuni\stack,q\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.exe
+C:\Users\Emili\Desktop\softuni\stack,q\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.deps.json
+C:\Users\Emili\Desktop\softuni\stack,q\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.runtimeconfig.json
+C:\Users\Emili\Desktop\softuni\stack,q\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.runtimeconfig.dev.json
+C:\Users\Emili\Desktop\softuni\stack,q\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.dll
+C:\Users\Emili\Desktop\softuni\stack,q\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.pdb
+C:\Users\Emili\Desktop\softuni\stack,q\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.csprojAssemblyReference.cache
+C:\Users\Emili\Desktop\softuni\stack,q\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.AssemblyInfoInputs.cache
+C:\Users\Emili\Desktop\softuni\stack,q\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.AssemblyInfo.cs
+C:\Users\Emili\Desktop\softuni\stack,q\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\Emili\Desktop\softuni\stack,q\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.dll
+C:\Users\Emili\Desktop\softuni\stack,q\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.pdb
+C:\Users\Emili\Desktop\softuni\stack,q\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.genruntimeconfig.cache
